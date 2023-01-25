@@ -16,7 +16,7 @@ A social network app developed in handlebars
 
 ## Installation
 
-Visit the deployed heroku app link here -
+Visit the deployed heroku app link here - https://calm-eyrie-50049.herokuapp.com/
 
 ## Usage
 
